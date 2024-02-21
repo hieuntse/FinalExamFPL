@@ -1,9 +1,10 @@
-Các bước cài đặt:
-**Install vite:** 
+**Các bước cài đặt:**
+
+Install vite:
 npm i vite
 
-**Json-server: **
+Json-server: 
 npx json-server --watch db.json
 
-**Build project: **
+Build project: 
 npm run build
