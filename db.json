@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "productName": "Galaxy A6",
+      "brand": "Samsung",
+      "image": "https://cdn.tgdd.vn/may-cu/Desktop/2023-10-12/0_43115075_samsunggalaxyzflip3f711b256gxanhla_1697110237139.jpg"
+    },
+    {
+      "id": "5",
+      "productName": "xiaoMi Note X Pro 3",
+      "brand": "Xiaomi",
+      "image": "https://cdn.tgdd.vn/may-cu/Desktop/2024-02-03/0_43896383_samsunggalaxys21feg990e6g128gxam_1706942498594.jpg"
+    }
+  ]
+}
